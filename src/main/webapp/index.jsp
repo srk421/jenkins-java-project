@@ -12,7 +12,7 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-        <h2>NETFLIX SIGN IN V-21.0</h2>
+        <h2>NETFLIX SIGN IN V-22.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
